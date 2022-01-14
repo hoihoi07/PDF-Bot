@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turing-gadget-338110",
+  "private_key_id": "d26865a4c28968aac43c398cda72ecb8a05092b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIWaEKLyxwZtns\niUzl0LQg14+Or5oZ6z3bW2p77V6y9bp57aY06BKSHATHRuc8/nFueqd8Ou3EnC8k\n+veL3CMm34gBBIC4QvvHAI3PJ50L1Dm8C1HxAJUsxzmitM+Is3g02t5NHCkgYM3h\nbnQ7sGpL3ZzAhspZKBhEc2HUedmOP50EDeAgcm5mvmXdjD+OAH87LALsm5+GhhdW\nnOfA+g4gpXxcXqE4ysx642cebbSP9noxa9Z4Tvxhcg9UNEl4WxMD7P400zrab26g\nWgRPdT4Nvr3NpIR0iIoAokyHhtf7BPQ3A1v6bWPGvu81rjyXQm68TZVm0P5+CBgF\nKB7hS7qpAgMBAAECggEAFUHZQdTegLCQ97VbqNibfA6TBz8feReKER+ibTKyxQco\neW5bH6rt6X26jhA6UbDnhSLTaW1xM9akc+aC5F5/hkzaR81cAPDueN9YrH2V/p7O\nX2LOF2WJ7l3XAinwCR+NpgIA6yqNPIe44G3RPFIL/S+uxYinqI0GAiFB5ILnL93k\nxBjurENT8CVvJO9AyNMhlvgOtjRj8Wy1QpAu26jW+uQkOzzDs+IgfwjgcDCQyHmj\nj6o1HnopQPjDNZc1/dRUE9tM2Je2CFT68c5MOuwkscZ7Cqh0cdymRGJa3XW61YfO\nXarf6fl0z2niXvPmoOfjB5EofsLvAuJ7fkMaZelNpwKBgQD3B5ps5WQsULLFfB0v\n7nwC9p4j7cGfxl0Avu7XTB6w69qiJdSV6U9sToM0strAECYvgaJ4OVtGwAIzh2b1\nHlVhT98TF/DJ5cTmR2806loeuCCasHERxTVQhtRhDY1xbKFXwbZIyH4+fnySm8WT\nMKABM6chqsoNR/fw86dscvYwGwKBgQDPoBc8CUyBr8swFAgwZ6cA6YC4mu3fzRiD\npl8iOdobccFUuQPoRk14d0hXWB3c4VxIgNrO+DyPUZUcFgzoXm2qewfo8dN9RONB\ngLmMjCKzwtglwnyK18hLbB9r15y5U89IiYETFxToimkQMhPmLD5mtMRrAxWomSwG\n3SDgonCUiwKBgAOM+m1CRtRUPJ2WER1VQjcQsGk3y6auRTvzgp9Zmr9URIo8HPgi\nqF+YKU6im35TPRlFtb4gpO05aU6wTYyMaRHDAiPWHkHoqZHdyP1ruOvkHaPbkWR9\n/ywvI/JZLYVJ2G/YevRE3XusecHpt0dMVaBuy6IyQEE8nZW7CtcGN/+tAoGBAIOr\nyVBfrU9JhxhUe+UGtxiS/PkV9+lIjlVfO1HfUny5JZxvQRUbEKJnM0+BKF8d5IJu\nhVVghDd3y5JmQYVT7USChb+rLS5yc5Tk58dET/WkiaNYtdbvhayfQ0YHFPNLPVeJ\nLHxI1Q+sR3jn6Uq9oE1OMoqTCDdF/G/V6LXNDoyFAoGBALtf8oOb1765jq9kUN2S\nfYtwGcJzJHcYD5eyudhBdqGc8BLCSNk/nfSr0TV07QAJ+oPvxZVQBI0Yj95gnVLx\nSNCBAqa9IhYM9D93kCPU7366qIQ7Ln1NzZUQ3Na7C/8jf7woPoaumVpsbfMNqxQg\nMzZvtrxSw/5SD5cH0qMMLMlV\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdfbot@turing-gadget-338110.iam.gserviceaccount.com",
+  "client_id": "104956988549876409275",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdfbot%40turing-gadget-338110.iam.gserviceaccount.com"
+}
